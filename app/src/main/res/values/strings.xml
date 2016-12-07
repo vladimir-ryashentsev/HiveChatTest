@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">АвтоЧат</string>
+
+    <string name="bot_name">Десептикон</string>
+    <string name="my_name">Оптимус Прайм</string>
+    <string name="activeBotNotificationTitle">Режим Мегатрона активирован.</string>
+    <string name="activeBotNotificationText">Я возвышусь, ты падешь!</string>
+    <string name="send">Отправить</string>
+    <string name="location_permission_denied">Определение местоположения запрещено.</string>
+    <string name="location_cant_get_location">Не удалось определить местоположение.</string>
+    <string name="location_message">http://www.google.com/maps/place/%1$f,%2$f</string>
+    <string name="chat_goToBotSettings">Настроить бота</string>
+    <string name="botSettings_megatroneMode">Включить режим Мегатрона</string>
+    <string name="chat_autoScroll">Автоматическая промотка</string>
+</resources>
